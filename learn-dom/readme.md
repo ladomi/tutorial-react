@@ -1,6 +1,6 @@
 # tutorial of DOM
 
-https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model
+[link](https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model)
 
 # tutorials
 1. done
