@@ -1,6 +1,6 @@
 # tutorial of DOM
 
-[tutorials](https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model)
+[Understanding the DOM — Document Object Model](https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model)
 
 # tutorials
 1. done
@@ -9,7 +9,7 @@
 1. done
 1. done
 1. done
-1. 
+1. done
 
 # jsのめも
 
